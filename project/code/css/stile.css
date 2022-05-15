@@ -1,0 +1,106 @@
+* {
+    font-family: consolas;
+}
+
+img{
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.text{
+    background-color: rgba(0, 0, 0, 0.664);
+    width: 500px;
+color: white;
+position: relative;
+top: -100px;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+h3{
+    color:darkorange;
+    margin: 5px;
+}
+
+h4{
+    margin: 5px;
+}
+
+p{
+margin: 5px;
+}
+
+.text2{
+    background-color: rgba(0, 0, 0, 0.664);
+    width: 500px;
+    border-radius: 10px;
+color: white;
+position: relative;
+top: -100px;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+.hell{
+    margin: 50px;
+}
+
+h2{
+    margin: 50px;
+}
+p{
+    height: max-content;
+    padding: 8px;
+
+}
+
+.war{
+margin-top: -450px;
+margin-left: 600px;
+}
+
+/* .button{
+    border-radius: 5px;
+    height: 50px;
+    width: 200px;
+    background-color: orange;
+    margin-left: 460px;
+    margin-top: -80px;
+
+
+}
+
+a{
+    padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 175px;
+padding-right: 175px;
+    text-decoration: none;
+    color: white;
+
+margin: 4px;
+} */
+
+#img{
+    height: 400px;
+    width: 300px;
+}
+
+.text3{
+    background-color: rgba(0, 0, 0, 0.671);
+    color: white;
+    width: 300px;
+margin-top: -100px;
+}
+
+.text4{
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.671);
+    color: white;
+    width: 300px;
+}
